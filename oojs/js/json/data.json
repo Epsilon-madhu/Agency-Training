@@ -1,0 +1,57 @@
+[
+  {
+      "productId": 1,
+      "productName": "Levis",
+      "productCode": "GDN-0011",
+      "releaseDate": "March 19, 2016",
+      "description": "Leaf rake with 48-inch wooden handle.",
+      "price": 9.95,
+      "starRating": 3.2,
+      "imageUrl": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-3.jpg",
+      "brand":10
+  },
+  {
+      "productId": 2,
+      "productName": "Levis",
+      "productCode": "GDN-0023",
+      "releaseDate": "March 18, 2016",
+      "description": "15 gallon capacity rolling garden cart",
+      "price": 322.99,
+      "starRating": 4.2,
+      "imageUrl": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-5.jpg",
+      "brand":10
+  },
+  {
+      "productId": 5,
+      "productName": "Arrow",
+      "productCode": "TBX-0048",
+      "releaseDate": "May 21, 2016",
+      "description": "Curved claw steel hammer",
+      "price": 28.9,
+      "starRating": 4.8,
+      "imageUrl": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-7.jpg",
+      "brand":11
+  },
+  {
+      "productId": 8,
+      "productName": "US Polo",
+      "productCode": "TBX-0022",
+      "releaseDate": "May 15, 2016",
+      "description": "15-inch steel blade hand saw",
+      "price": 111.55,
+      "starRating": 3.7,
+      "imageUrl": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-1.jpg",
+      "brand":13
+  },
+  {
+      "productId": 10,
+      "productName": "US Polo",
+      "productCode": "GMG-0042",
+      "releaseDate": "October 15, 2015",
+      "description": "Standard two-button video game controller",
+      "price": 5.95,
+      "starRating": 4.6,
+      "imageUrl": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-4.jpg",
+      "brand":13
+   }
+]
